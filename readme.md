@@ -1,0 +1,1 @@
+Web UI interface of truYum using HTML, CSS and JS (for validating edit menu item page)
